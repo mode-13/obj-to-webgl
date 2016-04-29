@@ -82,6 +82,6 @@ Because I was working with model files that contained texture and lighting data,
 
 
 ##Thanks
-I want to thank Giles Thomas for creating the WebGL tutorials at [http://learningwebgl.com](learningwebgl.com) and Tony Parisi for continuing to carry the torch for the site.  The tutorials made my transition from OpenGL programmer to WebGL programmer much easier.  In fact much of the code on my sample page is based on my going through those tutorials.
+I want to thank Giles Thomas for creating the WebGL tutorials at [http://learningwebgl.com/blog/](learningwebgl.com) and Tony Parisi for continuing to carry the torch for the site.  The tutorials made my transition from OpenGL programmer to WebGL programmer much easier.  In fact much of the code on my sample page is based on my going through those tutorials.
 
 Thanks also to OpenGL.org and their OpenGL Helper library code.  With fixed function OpenGL going by the wayside I needed a way to create perspective projection matrices, and they provided the code that is behind those magical glFrustum calls of old.
